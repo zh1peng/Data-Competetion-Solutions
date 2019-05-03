@@ -1,5 +1,3 @@
-# Solutions to data chanllenge
-
 ## Autism Spectrum Disorder classification, 2018 data challenge
 
 ## Top ten players in private leaderboard:

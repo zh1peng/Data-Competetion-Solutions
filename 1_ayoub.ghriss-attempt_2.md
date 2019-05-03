@@ -1,4 +1,4 @@
-## Featuer extraction
+## Feature extraction
 ```python
 import numpy as np
 import pandas as pd

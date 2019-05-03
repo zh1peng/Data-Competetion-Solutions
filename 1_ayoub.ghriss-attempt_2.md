@@ -85,12 +85,11 @@ class FeatureExtractor(BaseEstimator, TransformerMixin):
         X_anatomy = X_anatomy.drop(columns='anatomy_select')
         # concatenate both matrices        
         return pd.concat([X_connectome, X_anatomy, X_part], axis=1)
-        ```
+```
         
-        ## classifier
-        ```python
-        import numpy as np
- 
+## classifier
+```python
+import numpy as np
 from sklearn.base import BaseEstimator
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
@@ -197,4 +196,4 @@ class Classifier(BaseEstimator):
  
         return self.meta_clf.predict_proba(
             np.concatenate([y_connectome_pred, y_anatomy_pred], axis=1))
-        ```
+```

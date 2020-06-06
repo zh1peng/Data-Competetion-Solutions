@@ -2,11 +2,11 @@
 
 ## Top ten players in private leaderboard:
 
-[ayoub.ghriss attempt_2](https://github.com/zh1peng/Solutions/blob/master/1_ayoub.ghriss-attempt_2.md)
+[ayoub.ghriss attempt_2](https://github.com/zh1peng/Solutions/blob/master/ASD_2018/1_ayoub.ghriss-attempt_2.md)
 
-[Slasnista expe_5](https://github.com/zh1peng/Solutions/blob/master/2_Slasnista-expe_5.md)
+[Slasnista expe_5](https://github.com/zh1peng/Solutions/blob/master/ASD_2018/2_Slasnista-expe_5.md)
 
-[pearrr test13](https://github.com/zh1peng/Solutions/blob/master/3_pearrr-test13.md)
+[pearrr test13](https://github.com/zh1peng/Solutions/blob/master/ASD_2018/3_pearrr-test13.md)
 
 amicie test.
 
